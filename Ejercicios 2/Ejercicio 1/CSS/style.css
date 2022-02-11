@@ -1,0 +1,48 @@
+* {
+    margin: 0;
+    border: 0;
+    padding: 0;
+    -webkit-box-sizing: border-box;
+            box-sizing: border-box;
+  }
+
+#containerDatos{
+    background-color: #0d718f8e;
+    border-radius: 2%;
+    width: 40%;
+    height: 10%;
+}
+
+h1{
+    color: #fdfeff;
+}
+
+
+
+.body-2{
+    background-color: rgb(10, 115, 141);
+    
+}
+
+.card-img-top {
+    width: 5px;
+    height: 350px;
+}
+
+.labe-pres{
+    font-family: 'Bitter', serif;
+font-family: 'Exo', sans-serif;
+color: aliceblue;
+}
+
+.links{
+    text-decoration: none;
+    font-family: 'Bitter', serif;
+    font-family: 'Exo', sans-serif;
+    color: rgb(49, 53, 56);
+}
+
+.links:hover{
+    color: rgb(228, 225, 225);
+}
+

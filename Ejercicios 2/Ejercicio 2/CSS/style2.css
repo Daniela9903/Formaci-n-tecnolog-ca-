@@ -1,0 +1,40 @@
+* {
+    margin: 0;
+    border: 0;
+    padding: 0;
+    -webkit-box-sizing: border-box;
+            box-sizing: border-box;
+  }
+
+  .body-1{
+      background-color: rgb(221, 21, 21);
+      
+  }
+
+#containerDatos{
+   background-color: rgba(206, 206, 206, 0.404);
+    width: 40%;
+    border-radius: 5%;
+    box-shadow: 10px 5px 5px rgba(124, 121, 121, 0.233);
+
+}
+
+
+
+h1{
+    color: rgb(241, 244, 247);
+}
+.labe-pres{
+    
+color: rgb(241, 244, 247);
+}
+.links{
+    text-decoration: none;
+}
+
+.inputNum{
+    background-color: #89a9b341;
+    height: 32px;
+    border-radius: 5%;
+}
+
